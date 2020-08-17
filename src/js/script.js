@@ -92,4 +92,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
 })
 
-git add -A
